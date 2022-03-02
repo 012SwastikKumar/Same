@@ -1,0 +1,14 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "all the frontend stuffs are here",
+    "main": "index.js",
+    "scripts": {
+        "watch": "node-sass sass/main.scss css/style.css -w"
+    },
+    "author": "Swastik",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^7.0.1"
+    }
+}
